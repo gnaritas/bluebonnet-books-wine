@@ -1,0 +1,8 @@
+{
+  "name": "bluebonnet-books-wine",
+  "version": "1.0.0",
+  "description": "Bluebonnet Books & Wine — used bookstore, antiques and third place at 3464 Blue Bonnet Cir #120, Fort Worth TX (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
